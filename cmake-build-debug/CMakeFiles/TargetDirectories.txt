@@ -1,0 +1,3 @@
+/Users/LeMac/Code_projects/Git/time_sec_time/cmake-build-debug/CMakeFiles/time_sec_time.dir
+/Users/LeMac/Code_projects/Git/time_sec_time/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/LeMac/Code_projects/Git/time_sec_time/cmake-build-debug/CMakeFiles/rebuild_cache.dir
